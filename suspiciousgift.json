@@ -1,0 +1,59 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        111319295872696
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105370042626025
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        129504437671598
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96442718705320
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        123563845986019
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 123563845986019
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        87546390135975
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 87546390135975
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        129357957202626
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 129357957202626
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        138805549853994,
+        125258747465100,
+        104440368867933
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
